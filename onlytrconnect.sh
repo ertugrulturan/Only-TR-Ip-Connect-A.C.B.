@@ -2,6 +2,7 @@
 # NinjaNetwork / V4T1 / T13R / Ertuğrul TURAN
 # WWW = https://obir.ninja/
 # Only Root Run Script & Bu Arac Turk Ip Haric Tum Ulkeleri Engeller!
+# TR Game Server Firewall Method
 
 GREEN='\e[0;32m'
 RED='\e[0;31m'
